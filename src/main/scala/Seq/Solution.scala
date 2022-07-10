@@ -1,0 +1,5 @@
+package Seq
+
+object Solution {
+
+}
